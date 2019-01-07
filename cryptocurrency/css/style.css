@@ -354,6 +354,7 @@ ol {
 .hero-section .laptop-image {
 	width: 685px;
 	max-width: none;
+	height: 600px;
 	position: relative;
 	left: 80px;
 }

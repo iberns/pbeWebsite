@@ -343,7 +343,7 @@ ol {
 	padding-top: 260px;
 	display: block;
 	background-image: url("../img/ENGINEERING_primary.png");
-	background-size: cover;
+	background-size: auto;
 	background-color: #f3f7f9;
 	background-position: right top;
 	background-repeat: no-repeat;
